@@ -11,8 +11,8 @@ just write "gulp"
 
 ## Git
 - git add . 
-- git push origin master 
 - git commit -m "Added language icons"
+- git push origin master 
 
 ## Todo:
 
