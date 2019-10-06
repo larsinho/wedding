@@ -233,6 +233,12 @@ $(document).ready(function () {
 
 });
 
+function rsvpFunction() {
+    $('#rsvp-modal').modal('show');   // The function returns the product of p1 and p2
+  };
+
+
+
 /********************** Extras **********************/
 
 // Google map
